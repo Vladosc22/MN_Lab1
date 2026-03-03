@@ -212,6 +212,9 @@ Add graphical convergence visualization
 Export results to CSV
 
 Add automatic convergence rate measurement
+./numerical_methods
+
+
 [MN Lab1 Chiochiu Vladislav.docx](https://github.com/user-attachments/files/25716760/MN.Lab1.Chiochiu.Vladislav.docx)
 
 
