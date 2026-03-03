@@ -176,45 +176,6 @@ These ensure safe termination and prevent infinite loops.
 
 ---
 
-## 🖥️ Compilation & Execution
-
-### Linux / macOS
-```bash
-g++ -std=c++11 -O2 main.cpp -o numerical_methods
-./numerical_methods
-Windows (MinGW)
-g++ -std=c++11 -O2 main.cpp -o numerical_methods.exe
-numerical_methods.exe
-📁 Project Structure
-main.cpp
-README.md
-
-Single-file implementation focused on algorithm clarity and comparison.
-
-🎯 Learning Outcomes
-
-This project demonstrates:
-
-Numerical root-finding theory
-
-Convergence order comparison
-
-Stability vs speed trade-offs
-
-Practical implementation in C++
-
-Error tolerance analysis (10⁻² vs 10⁻⁶ precision)
-
-🚀 Possible Improvements
-
-Add graphical convergence visualization
-
-Export results to CSV
-
-Add automatic convergence rate measurement
-./numerical_methods
-
-
 [MN Lab1 Chiochiu Vladislav.docx](https://github.com/user-attachments/files/25716760/MN.Lab1.Chiochiu.Vladislav.docx)
 
 
